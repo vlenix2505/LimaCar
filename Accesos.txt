@@ -1,0 +1,30 @@
+USUARIOS CLIENTES: 
+
+usuario: vlen 
+clave: sara
+
+usuario: cami
+clave: cami
+
+usuario: gasparin
+clave: gasparin
+
+usuario: luciano
+clave: luciano
+
+usuario: rodro523
+clave: lima1
+
+usuario: javier
+clave: patito11
+
+usuario: lionel30
+clave: miamigod
+
+usuario: ronald
+clave: ayudin856
+
+USUARIO ROL ADMINISTRADOR
+
+usuario: admin
+clave: admin
