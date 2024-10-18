@@ -1,0 +1,92 @@
+﻿<Window x:Class="Presentacion.RegistroVehiculo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="RegistroVehiculo" Height="496" Width="800" Background="#FFD9D9D9">
+    <Grid>
+        <Label Content="Registro de Vehículos" HorizontalAlignment="Center" Height="45" VerticalAlignment="Top" Width="336" FontSize="26" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <DataGrid x:Name="dgVehiculos" HorizontalAlignment="Center" Height="174" VerticalAlignment="Top" Width="780" Margin="0,185,0,0" SelectionChanged="dgVehiculos_SelectionChanged"/>
+        <TextBox x:Name="tbColor" HorizontalAlignment="Left" Height="22" Margin="146,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Color:" HorizontalAlignment="Left" Margin="50,42,0,0" VerticalAlignment="Top" Height="26" RenderTransformOrigin="0.5,0.5" VerticalContentAlignment="Stretch">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-1.591"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.306"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="tbAnio" HorizontalAlignment="Left" Height="22" Margin="146,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Año:" HorizontalAlignment="Left" Margin="50,72,0,0" VerticalAlignment="Top" Height="26" RenderTransformOrigin="0.5,0.5" VerticalContentAlignment="Stretch">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-1.591"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.306"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="tbPrecio" HorizontalAlignment="Left" Height="22" Margin="398,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <TextBox x:Name="tbCapacidad" HorizontalAlignment="Left" Height="22" Margin="398,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Combustible:" HorizontalAlignment="Left" Margin="46,106,0,0" VerticalAlignment="Top" Width="96"/>
+        <Label Content="Precio:" HorizontalAlignment="Left" Margin="300,45,0,0" VerticalAlignment="Top" Height="26" RenderTransformOrigin="0.5,0.5" VerticalContentAlignment="Stretch" Width="90">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-1.591"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.306"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Capacidad:" HorizontalAlignment="Left" Margin="302,74,0,0" VerticalAlignment="Top" Height="26" RenderTransformOrigin="0.5,0.5" VerticalContentAlignment="Stretch">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-1.591"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.306"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Modelo:" HorizontalAlignment="Left" Margin="575,73,0,0" VerticalAlignment="Top" Height="26" RenderTransformOrigin="0.5,0.5" VerticalContentAlignment="Stretch">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-1.591"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.306"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <ComboBox x:Name="cbCombustible" HorizontalAlignment="Left" Margin="142,108,0,0" VerticalAlignment="Top" Width="126" Height="22" RenderTransformOrigin="-1.107,4.706">
+            <ComboBoxItem Content="Petroleo"/>
+            <ComboBoxItem Content="Gasolina"/>
+        </ComboBox>
+        <Label Content="Marca:" HorizontalAlignment="Left" Height="26" Margin="580,41,0,0" VerticalAlignment="Top" Width="52"/>
+        <TextBox x:Name="tbPlaca" HorizontalAlignment="Left" Height="22" Margin="637,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Placa:" HorizontalAlignment="Left" Height="26" Margin="585,110,0,0" VerticalAlignment="Top" Width="46"/>
+        <Label Content="Tipo:" HorizontalAlignment="Left" Height="26" Margin="308,106,0,0" VerticalAlignment="Top" Width="52"/>
+        <Button x:Name="btnAgregar" Content="Agregar" HorizontalAlignment="Left" Height="27" Margin="48,376,0,0" VerticalAlignment="Top" Width="91" Background="#FF9FD2FF" Click="btnAgregar_Click"/>
+        <Button x:Name="btnModificar" Content="Modificar" HorizontalAlignment="Left" Height="27" Margin="251,376,0,0" VerticalAlignment="Top" Width="91" Background="#FF9FD2FF" Click="btnModificar_Click"/>
+        <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Height="27" Margin="150,376,0,0" VerticalAlignment="Top" Width="91" Background="#FF9FD2FF" Click="btnEliminar_Click"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Height="27" Margin="351,376,0,0" VerticalAlignment="Top" Width="91" Background="#FF9FD2FF" Click="btnSalir_Click"/>
+        <Label Content="Imagen del vehiculo:" HorizontalAlignment="Left" Margin="488,384,0,0" VerticalAlignment="Top" Height="26" RenderTransformOrigin="0.5,0.5" VerticalContentAlignment="Stretch"></Label>
+        <ComboBox x:Name="cbTipoVehiculo" HorizontalAlignment="Left" Height="24" Margin="399,110,0,0" VerticalAlignment="Top" Width="121"></ComboBox>
+        <TextBox x:Name="tbLink" HorizontalAlignment="Left" Height="22" Margin="250,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="420"/>
+        <Label Content="Link:" HorizontalAlignment="Left" Height="26" Margin="192,148,0,0" VerticalAlignment="Top" Width="48" RenderTransformOrigin="0.458,0.578"/>
+        <ComboBox x:Name="cbMarca" HorizontalAlignment="Left" Margin="644,44,0,0" VerticalAlignment="Top" Width="118" SelectionChanged="cbMarca_SelectionChanged"/>
+        <ComboBox x:Name="cbModelo" HorizontalAlignment="Left" Margin="640,77,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cbModelo_SelectionChanged" RenderTransformOrigin="0.446,0.571"/>
+        <WrapPanel x:Name="wrapPanel1" HorizontalAlignment="Left" Height="91" Margin="607,372,0,0" VerticalAlignment="Top" Width="162"/>
+        <Button x:Name="btnBuscar" Content="Buscar" HorizontalAlignment="Left" Height="27" Margin="342,419,0,0" VerticalAlignment="Top" Width="91" Background="#FF9FD2FF" Click="btnBuscar_Click"/>
+        <TextBox x:Name="tbBuscarPlaca" HorizontalAlignment="Left" Height="27" Margin="185,421,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <Label Content="Búsqueda por Placa:" HorizontalAlignment="Left" Margin="47,422,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Height="27" Margin="460,419,0,0" VerticalAlignment="Top" Width="75" Background="#FF9FD2FF" Click="btnLimpiar_Click"/>
+
+    </Grid>
+</Window>

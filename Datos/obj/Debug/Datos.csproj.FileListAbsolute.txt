@@ -1,0 +1,36 @@
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\bin\Debug\Datos.dll.config
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Datos\obj\Debug\Datos.pdb
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\bin\Debug\Datos.dll.config
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Datos\obj\Debug\Datos.pdb
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\bin\Debug\Datos.dll.config
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Datos\obj\Debug\Datos.pdb

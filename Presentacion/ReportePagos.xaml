@@ -1,0 +1,29 @@
+﻿<Window x:Class="Presentacion.ReportePagos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="ReportePagos" Height="450" Width="800" Background="#FFD9D9D9">
+    <Grid>
+        <DataGrid x:Name="dgPagos" HorizontalAlignment="Left" Height="178" Margin="392,74,0,0" VerticalAlignment="Top" Width="388"/>
+        <Label Content="Tipo de Pago:" HorizontalAlignment="Left" Height="28" Margin="63,76,0,0" VerticalAlignment="Top" Width="84"/>
+        <ComboBox x:Name="cbTipoPago" HorizontalAlignment="Left" Height="30" Margin="164,78,0,0" VerticalAlignment="Top" Width="170"/>
+        <TextBox x:Name="tbMontoMin" HorizontalAlignment="Left" Height="28" Margin="188,258,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="146"/>
+        <Label Content="Reporte de Pagos" HorizontalAlignment="Center" Height="45" VerticalAlignment="Top" Width="336" FontSize="26" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,18,0,0"/>
+        <TextBox x:Name="tbMontoMax" HorizontalAlignment="Left" Height="28" Margin="188,304,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="147"/>
+        <Label Content="Monto mínimo:" HorizontalAlignment="Left" Height="28" Margin="62,260,0,0" VerticalAlignment="Top" Width="96"/>
+        <Label Content="Monto máximo:" HorizontalAlignment="Left" Height="28" Margin="62,304,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="btnBuscarPorTipoFecha" Content="Buscar Pago de reserva por tipo &#xD;&#xA;de pago sin/con fecha mínima" HorizontalAlignment="Left" Height="50" Margin="67,180,0,0" VerticalAlignment="Top" Width="267" Click="btnBuscarPorTipoFecha_Click" Background="#FF9FD2FF"/>
+        <DatePicker x:Name="dpFechaMin" HorizontalAlignment="Left" Height="30" Margin="166,126,0,0" VerticalAlignment="Top" Width="168"/>
+        <Label Content="Fecha mínima &#xD;&#xA;de pago:" HorizontalAlignment="Left" Height="44" Margin="64,120,0,0" VerticalAlignment="Top" Width="84"/>
+        <Button x:Name="btnBuscarRangoMonto" Content=" Buscar Pago de reserva por &#xD;&#xA;    rango de monto total" HorizontalAlignment="Left" Height="50" Margin="68,352,0,0" VerticalAlignment="Top" Width="266" Click="btnBuscarRangoMonto_Click" Background="#FF9FD2FF" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="btnBuscarPorMonto" Content="  Buscar Pago con &#xD;&#xA;mayor monto total" HorizontalAlignment="Left" Height="80" Margin="394,275,0,0" VerticalAlignment="Top" Width="123" Click="btnBuscarPorMonto_Click" Background="#FF9FD2FF"/>
+        <Button x:Name="btnBuscarPorCliente" Content="Buscar Pago por código de reserva" HorizontalAlignment="Left" Height="40" Margin="553,314,0,0" VerticalAlignment="Top" Width="218" Click="btnBuscarPorCliente_Click" Background="#FF9FD2FF"/>
+        <Label Content="Código reserva:" HorizontalAlignment="Left" Height="28" Margin="547,270,0,0" VerticalAlignment="Top" Width="98"/>
+        <ComboBox x:Name="cbCliente" HorizontalAlignment="Left" Height="32" Margin="657,268,0,0" VerticalAlignment="Top" Width="114"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Height="30" Margin="393,371,0,0" VerticalAlignment="Top" Width="124" Background="#FF9FD2FF" Click="btnSalir_Click"/>
+
+    </Grid>
+</Window>

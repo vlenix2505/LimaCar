@@ -1,0 +1,30 @@
+﻿<Window x:Class="Presentacion.ReporteCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="ReporteCliente" Height="450" Width="800" Background="#FFD9D9D9">
+    <Grid>
+        <Label Content="Promedio de edad de clientes:" HorizontalAlignment="Left" Height="39" Margin="530,373,0,0" VerticalAlignment="Top" Width="177"/>
+        <Label Content="Reporte Clientes" HorizontalAlignment="Left" Height="53" Margin="259,9,0,0" VerticalAlignment="Top" Width="259" FontSize="28" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Label Content="Cantidad de reservas:" HorizontalAlignment="Left" Height="36" Margin="296,371,0,0" VerticalAlignment="Top" Width="127"/>
+        <DataGrid x:Name="dgClientes" HorizontalAlignment="Left" Height="280" Margin="292,0,0,0" VerticalAlignment="Center" Width="481" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Label x:Name="lblCantidad" Content="0" HorizontalAlignment="Left" Height="34" Margin="425,371,0,0" VerticalAlignment="Top" Width="79"/>
+        <Label x:Name="lblPromedioEdad" Content="0" HorizontalAlignment="Left" Height="30" Margin="714,373,0,0" VerticalAlignment="Top" Width="64"/>
+        <Button x:Name="btnClienteMasReservas" Content="Cliente con más reservas" HorizontalAlignment="Left" Height="31" Margin="54,254,0,0" VerticalAlignment="Top" Width="183" Background="#FF9FD2FF" Click="btnClienteMasReservas_Click" />
+        <Button x:Name="btnClienteMenosReservas" Content="Cliente con menos reservas" HorizontalAlignment="Left" Height="31" Margin="57,298,0,0" VerticalAlignment="Top" Width="179" Background="#FF9FD2FF" Click="btnClienteMenosReservas_Click"/>
+        <Button x:Name="btnBuscarSexo" Content="Buscar" HorizontalAlignment="Left" Height="28" Margin="59,149,0,0" VerticalAlignment="Top" Width="87" Background="#FF9FD2FF" Click="btnBuscarSexo_Click"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Height="28" Margin="174,149,0,0" VerticalAlignment="Top" Width="87" Background="#FF9FD2FF" Click="btnLimpiar_Click" />
+
+        <Label Content="Busqueda por Sexo:" HorizontalAlignment="Left" Height="28" Margin="23,100,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cbBuscarSexo" HorizontalAlignment="Left" Height="27" Margin="152,100,0,0" VerticalAlignment="Top" Width="119">
+            <ComboBoxItem Content="Femenino"/>
+            <ComboBoxItem Content="Masculino"/>
+
+        </ComboBox>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Height="28" Margin="121,191,0,0" VerticalAlignment="Top" Width="87" Background="#FF9FD2FF" Click="btnSalir_Click"  />
+
+    </Grid>
+</Window>

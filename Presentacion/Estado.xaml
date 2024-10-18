@@ -1,0 +1,21 @@
+﻿<Window x:Class="Presentacion.Estado"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="Estado" Height="450" Width="800" Background="#FFECECEC">
+    <Grid>
+        <DataGrid x:Name="dgEstadosReservas" HorizontalAlignment="Left" Height="297" Margin="366,0,0,0" VerticalAlignment="Center" Width="392" SelectionChanged="dgEstadosReservas_SelectionChanged" />
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Height="28" Margin="133,359,0,0" VerticalAlignment="Top" Width="103" Background="#FF9FD2FF" Click="btnSalir_Click"/>
+        <Label Content="Estado de Reserva" HorizontalAlignment="Left" Height="40" Margin="82,26,0,0" VerticalAlignment="Top" Width="206" FontSize="20" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="btnAceptar" Content="Aceptar" HorizontalAlignment="Left" Height="28" Margin="133,273,0,0" VerticalAlignment="Top" Width="103" Background="#FF9FD2FF" Click="btnAceptar_Click"/>
+        <TextBox x:Name="tbCodigoReserva" HorizontalAlignment="Left" Height="26" Margin="184,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <Label Content="Código Reserva:" HorizontalAlignment="Left" Height="26" Margin="67,228,0,0" VerticalAlignment="Top" Width="103"/>
+        <Label Content="Estado de Aprobación:" HorizontalAlignment="Left" Height="26" Margin="67,314,0,0" VerticalAlignment="Top" Width="136"/>
+        <Label x:Name="lblEstado" Content="" HorizontalAlignment="Left" Height="26" Margin="210,314,0,0" VerticalAlignment="Top" Width="100"/>
+        <WrapPanel x:Name="wrapPanel1" HorizontalAlignment="Left" Height="139" Margin="57,75,0,0" VerticalAlignment="Top" Width="252"/>
+
+    </Grid>
+</Window>

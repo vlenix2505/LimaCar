@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelEF" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="CodigoCliente" />
+    </Key>
+    <Property Name="CodigoCliente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Dni" Type="String" MaxLength="8" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Apellidos" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telefono" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Correo" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="FechaNacimiento" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Pais" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Sexo" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Nombre_usuario" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Clave" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="i_fechaCreacion" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="i_fechaModificado" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="i_creadoPor" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="i_modificadoPor" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Reserva" Relationship="Self.reservas_clientes" FromRole="Cliente" ToRole="Reserva" />
+  </EntityType>
+  <EntityType Name="Disponibilidad">
+    <Key>
+      <PropertyRef Name="CodigoDisponibilidad" />
+    </Key>
+    <Property Name="CodigoDisponibilidad" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FechaInicio" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="FechaFin" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CodigoVehiculo" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Vehiculo" Relationship="Self.disponibilidad_vehiculos" FromRole="Disponibilidad" ToRole="Vehiculo" />
+  </EntityType>
+  <EntityType Name="EstadoReserva">
+    <Key>
+      <PropertyRef Name="CodigoEstadoReserva" />
+    </Key>
+    <Property Name="CodigoEstadoReserva" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Reserva" Relationship="Self.reservas_estado_reserva" FromRole="EstadoReserva" ToRole="Reserva" />
+  </EntityType>
+  <EntityType Name="Marca">
+    <Key>
+      <PropertyRef Name="CodigoMarca" />
+    </Key>
+    <Property Name="CodigoMarca" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Modelo" Relationship="Self.modelos_marcas" FromRole="Marca" ToRole="Modelo" />
+  </EntityType>
+  <EntityType Name="Modelo">
+    <Key>
+      <PropertyRef Name="CodigoModelo" />
+    </Key>
+    <Property Name="CodigoModelo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CodigoMarca" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Marca" Relationship="Self.modelos_marcas" FromRole="Modelo" ToRole="Marca" />
+    <NavigationProperty Name="Vehiculo" Relationship="Self.vehiculos_modelos" FromRole="Modelo" ToRole="Vehiculo" />
+  </EntityType>
+  <EntityType Name="Pago">
+    <Key>
+      <PropertyRef Name="CodigoPago" />
+    </Key>
+    <Property Name="CodigoPago" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Monto" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="FechaPago" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CodigoTipoPago" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="TipoPago" Relationship="Self.pagos_tipos_de_pago" FromRole="Pago" ToRole="TipoPago" />
+    <NavigationProperty Name="Reserva" Relationship="Self.reservas_pagos" FromRole="Pago" ToRole="Reserva" />
+  </EntityType>
+  <EntityType Name="Reserva">
+    <Key>
+      <PropertyRef Name="CodigoReserva" />
+    </Key>
+    <Property Name="CodigoReserva" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FechaInicio" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="FechaFin" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Galones" Type="Int32" Nullable="false" />
+    <Property Name="CodigoPago" Type="Int32" />
+    <Property Name="CodigoEstadoReserva" Type="Int32" Nullable="false" />
+    <Property Name="i_fechaCreacion" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="i_creadoPor" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CodigoCliente" Type="Int32" Nullable="false" />
+    <Property Name="CodigoVehiculo" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Cliente" Relationship="Self.reservas_clientes" FromRole="Reserva" ToRole="Cliente" />
+    <NavigationProperty Name="EstadoReserva" Relationship="Self.reservas_estado_reserva" FromRole="Reserva" ToRole="EstadoReserva" />
+    <NavigationProperty Name="Pago" Relationship="Self.reservas_pagos" FromRole="Reserva" ToRole="Pago" />
+    <NavigationProperty Name="Vehiculo" Relationship="Self.reservas_vehiculos" FromRole="Reserva" ToRole="Vehiculo" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TipoPago">
+    <Key>
+      <PropertyRef Name="CodigoTipoPago" />
+    </Key>
+    <Property Name="CodigoTipoPago" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreTipo" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Pago" Relationship="Self.pagos_tipos_de_pago" FromRole="TipoPago" ToRole="Pago" />
+  </EntityType>
+  <EntityType Name="Tipovehiculo">
+    <Key>
+      <PropertyRef Name="CodigoTipoVehiculo" />
+    </Key>
+    <Property Name="CodigoTipoVehiculo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TipoVehiculo" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Vehiculo" Relationship="Self.vehiculos_tipos_vehiculo" FromRole="Tipovehiculo" ToRole="Vehiculo" />
+  </EntityType>
+  <EntityType Name="Vehiculo">
+    <Key>
+      <PropertyRef Name="CodigoVehiculo" />
+    </Key>
+    <Property Name="CodigoVehiculo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Color" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Anio" Type="Int32" Nullable="false" />
+    <Property Name="TipoCombustible" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Precio" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Capacidad" Type="Int32" Nullable="false" />
+    <Property Name="Placa" Type="String" MaxLength="6" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CodigoTipoVehiculo" Type="Int32" Nullable="false" />
+    <Property Name="CodigoModelo" Type="Int32" Nullable="false" />
+    <Property Name="ImagenVehiculo" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="i_creadoPor" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="i_modificadoPor" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="i_fechaCreacion" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="i_fechaModificado" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Disponibilidad" Relationship="Self.disponibilidad_vehiculos" FromRole="Vehiculo" ToRole="Disponibilidad" />
+    <NavigationProperty Name="Modelo" Relationship="Self.vehiculos_modelos" FromRole="Vehiculo" ToRole="Modelo" />
+    <NavigationProperty Name="Reserva" Relationship="Self.reservas_vehiculos" FromRole="Vehiculo" ToRole="Reserva" />
+    <NavigationProperty Name="Tipovehiculo" Relationship="Self.vehiculos_tipos_vehiculo" FromRole="Vehiculo" ToRole="Tipovehiculo" />
+  </EntityType>
+  <Association Name="reservas_clientes">
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+    <End Role="Reserva" Type="Self.Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="CodigoCliente" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="CodigoCliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="disponibilidad_vehiculos">
+    <End Role="Vehiculo" Type="Self.Vehiculo" Multiplicity="1" />
+    <End Role="Disponibilidad" Type="Self.Disponibilidad" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vehiculo">
+        <PropertyRef Name="CodigoVehiculo" />
+      </Principal>
+      <Dependent Role="Disponibilidad">
+        <PropertyRef Name="CodigoVehiculo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="reservas_estado_reserva">
+    <End Role="EstadoReserva" Type="Self.EstadoReserva" Multiplicity="1" />
+    <End Role="Reserva" Type="Self.Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EstadoReserva">
+        <PropertyRef Name="CodigoEstadoReserva" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="CodigoEstadoReserva" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="modelos_marcas">
+    <End Role="Marca" Type="Self.Marca" Multiplicity="1" />
+    <End Role="Modelo" Type="Self.Modelo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Marca">
+        <PropertyRef Name="CodigoMarca" />
+      </Principal>
+      <Dependent Role="Modelo">
+        <PropertyRef Name="CodigoMarca" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="vehiculos_modelos">
+    <End Role="Modelo" Type="Self.Modelo" Multiplicity="1" />
+    <End Role="Vehiculo" Type="Self.Vehiculo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Modelo">
+        <PropertyRef Name="CodigoModelo" />
+      </Principal>
+      <Dependent Role="Vehiculo">
+        <PropertyRef Name="CodigoModelo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="pagos_tipos_de_pago">
+    <End Role="TipoPago" Type="Self.TipoPago" Multiplicity="1" />
+    <End Role="Pago" Type="Self.Pago" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoPago">
+        <PropertyRef Name="CodigoTipoPago" />
+      </Principal>
+      <Dependent Role="Pago">
+        <PropertyRef Name="CodigoTipoPago" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="reservas_pagos">
+    <End Role="Pago" Type="Self.Pago" Multiplicity="0..1" />
+    <End Role="Reserva" Type="Self.Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pago">
+        <PropertyRef Name="CodigoPago" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="CodigoPago" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="reservas_vehiculos">
+    <End Role="Vehiculo" Type="Self.Vehiculo" Multiplicity="1" />
+    <End Role="Reserva" Type="Self.Reserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vehiculo">
+        <PropertyRef Name="CodigoVehiculo" />
+      </Principal>
+      <Dependent Role="Reserva">
+        <PropertyRef Name="CodigoVehiculo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="vehiculos_tipos_vehiculo">
+    <End Role="Tipovehiculo" Type="Self.Tipovehiculo" Multiplicity="1" />
+    <End Role="Vehiculo" Type="Self.Vehiculo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tipovehiculo">
+        <PropertyRef Name="CodigoTipoVehiculo" />
+      </Principal>
+      <Dependent Role="Vehiculo">
+        <PropertyRef Name="CodigoTipoVehiculo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BDEFEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" />
+    <EntitySet Name="Disponibilidad" EntityType="Self.Disponibilidad" />
+    <EntitySet Name="EstadoReserva" EntityType="Self.EstadoReserva" />
+    <EntitySet Name="Marca" EntityType="Self.Marca" />
+    <EntitySet Name="Modelo" EntityType="Self.Modelo" />
+    <EntitySet Name="Pago" EntityType="Self.Pago" />
+    <EntitySet Name="Reserva" EntityType="Self.Reserva" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="TipoPago" EntityType="Self.TipoPago" />
+    <EntitySet Name="Tipovehiculo" EntityType="Self.Tipovehiculo" />
+    <EntitySet Name="Vehiculo" EntityType="Self.Vehiculo" />
+    <AssociationSet Name="reservas_clientes" Association="Self.reservas_clientes">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="Reserva" EntitySet="Reserva" />
+    </AssociationSet>
+    <AssociationSet Name="disponibilidad_vehiculos" Association="Self.disponibilidad_vehiculos">
+      <End Role="Vehiculo" EntitySet="Vehiculo" />
+      <End Role="Disponibilidad" EntitySet="Disponibilidad" />
+    </AssociationSet>
+    <AssociationSet Name="reservas_estado_reserva" Association="Self.reservas_estado_reserva">
+      <End Role="EstadoReserva" EntitySet="EstadoReserva" />
+      <End Role="Reserva" EntitySet="Reserva" />
+    </AssociationSet>
+    <AssociationSet Name="modelos_marcas" Association="Self.modelos_marcas">
+      <End Role="Marca" EntitySet="Marca" />
+      <End Role="Modelo" EntitySet="Modelo" />
+    </AssociationSet>
+    <AssociationSet Name="vehiculos_modelos" Association="Self.vehiculos_modelos">
+      <End Role="Modelo" EntitySet="Modelo" />
+      <End Role="Vehiculo" EntitySet="Vehiculo" />
+    </AssociationSet>
+    <AssociationSet Name="pagos_tipos_de_pago" Association="Self.pagos_tipos_de_pago">
+      <End Role="TipoPago" EntitySet="TipoPago" />
+      <End Role="Pago" EntitySet="Pago" />
+    </AssociationSet>
+    <AssociationSet Name="reservas_pagos" Association="Self.reservas_pagos">
+      <End Role="Pago" EntitySet="Pago" />
+      <End Role="Reserva" EntitySet="Reserva" />
+    </AssociationSet>
+    <AssociationSet Name="reservas_vehiculos" Association="Self.reservas_vehiculos">
+      <End Role="Vehiculo" EntitySet="Vehiculo" />
+      <End Role="Reserva" EntitySet="Reserva" />
+    </AssociationSet>
+    <AssociationSet Name="vehiculos_tipos_vehiculo" Association="Self.vehiculos_tipos_vehiculo">
+      <End Role="Tipovehiculo" EntitySet="Tipovehiculo" />
+      <End Role="Vehiculo" EntitySet="Vehiculo" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(ModelEF.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(ModelEF.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+    <FunctionImport Name="usp_ListarVehiculosCliente" ReturnType="Collection(ModelEF.usp_ListarVehiculosCliente_Result)" />
+  </EntityContainer>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="usp_ListarVehiculosCliente_Result">
+    <Property Type="Int32" Name="CodigoVehiculo" Nullable="false" />
+    <Property Type="String" Name="Placa" Nullable="false" MaxLength="6" />
+    <Property Type="Int32" Name="Anio" Nullable="false" />
+    <Property Type="String" Name="Color" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Marca" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Modelo" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="TipoVehiculo" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="Capacidad" Nullable="false" />
+    <Property Type="Decimal" Name="Precio" Nullable="false" Precision="19" />
+  </ComplexType>
+</Schema>

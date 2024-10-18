@@ -1,0 +1,36 @@
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Negocio\obj\Debug\Negocio.pdb

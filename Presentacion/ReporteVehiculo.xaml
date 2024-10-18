@@ -1,0 +1,22 @@
+﻿<Window x:Class="Presentacion.ReporteVehiculo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="ReporteVehiculo" Height="450" Width="800" Background="#FFD9D9D9">
+    <Grid>
+        <Label Content="Reporte Vehiculos" HorizontalAlignment="Left" Height="53" Margin="259,25,0,0" VerticalAlignment="Top" Width="259" FontSize="28" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Height="28" Margin="119,231,0,0" VerticalAlignment="Top" Width="87" Background="#FF9FD2FF" Click="btnSalir_Click"  />
+        <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Height="28" Margin="187,190,0,0" VerticalAlignment="Top" Width="87" Background="#FF9FD2FF" Click="btnLimpiar_Click" />
+        <Button x:Name="btnBuscar" Content="Buscar" HorizontalAlignment="Left" Height="28" Margin="49,190,0,0" VerticalAlignment="Top" Width="87" Background="#FF9FD2FF" Click="btnBuscar_Click" />
+
+        <DataGrid x:Name="dgVehiculos" HorizontalAlignment="Left" Height="287" Margin="313,108,0,0" VerticalAlignment="Top" Width="440" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Label Content="Búsqueda Tipo de Vehiculos: " HorizontalAlignment="Left" Height="33" Margin="12,130,0,0" VerticalAlignment="Top" Width="172"/>
+        <ComboBox x:Name="cbTipoVehiculo" HorizontalAlignment="Left" Height="33" Margin="188,129,0,0" VerticalAlignment="Top" Width="114"/>
+        <Button x:Name="btnMayorReservas" Content="  Mostrar Vehiculos con Mayor &#xD;&#xA;cantidad de reservas Aprobadas" HorizontalAlignment="Left" Height="44" Margin="26,280,0,0" VerticalAlignment="Top" Width="280" Background="#FF9FD2FF" Click="btnMayorReservas_Click"/>
+        <Button x:Name="btnMenorReservas" Content="  Mostrar Vehiculos con Menos &#xD;&#xA;cantidad de reservas Aprobadas" HorizontalAlignment="Left" Height="44" Margin="27,333,0,0" VerticalAlignment="Top" Width="280" Background="#FF9FD2FF" Click="btnMenorReservas_Click"/>
+
+    </Grid>
+</Window>

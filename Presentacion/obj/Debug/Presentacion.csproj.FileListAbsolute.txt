@@ -1,0 +1,340 @@
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\Datos.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\MisDatos.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\MisDatos.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Estado.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Estado.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Pagos.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\Pagos.baml
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.g.cs
+C:\Users\Lenovo\source\repos\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\Datos.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Estado.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\MisDatos.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Pagos.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\App.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Estado.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\MisDatos.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Pagos.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Reportes.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\Reportes.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\ReporteCliente.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\ReporteCliente.baml
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\ReporteVehiculo.g.cs
+C:\Users\Camila\Downloads\ProyectoFinal (4)\ProyectoFinal\Presentacion\obj\Debug\ReporteVehiculo.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\Datos.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Estado.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\MisDatos.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Pagos.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\ReporteCliente.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Reportes.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\ReporteVehiculo.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\App.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Estado.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\MisDatos.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Pagos.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\ReporteCliente.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Reportes.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\ReporteVehiculo.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\ReportePagos.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\ReporteReserva.g.cs
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\ReportePagos.baml
+C:\Users\Camila\Downloads\ESTE ES EL TF D FUNDA GAAA\ProyectoFinal\Presentacion\obj\Debug\ReporteReserva.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Datos.dll
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Estado.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MisDatos.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Pagos.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteCliente.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReportePagos.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteReserva.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Reportes.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteVehiculo.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\App.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Estado.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MisDatos.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Pagos.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteCliente.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReportePagos.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteReserva.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Reportes.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteVehiculo.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\Fundamentos de Sistemas de Información\PROYECTO\TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Datos.dll
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Estado.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MisDatos.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Pagos.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteCliente.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReportePagos.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteReserva.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Reportes.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteVehiculo.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\App.g.cs
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Estado.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\MisDatos.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Pagos.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteCliente.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReportePagos.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteReserva.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Reportes.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\ReporteVehiculo.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.baml
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Camila\OneDrive - Universidad Peruana de Ciencias\UPC\2023-2\Fundamentos de Sistemas de Información\PROYECTO\NO BORRARRR TF_202217059\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\Datos.dll
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Estado.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\MisDatos.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Pagos.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\ReporteCliente.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\ReportePagos.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\ReporteReserva.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Reportes.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\ReporteVehiculo.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\App.g.cs
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Estado.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\InicioSesion.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\ListaCarros.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\MenuAdmin.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\MenuUsuario.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\MisDatos.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Pagos.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\RegistroReservaAdmin.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuario.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\RegistroUsuarioAdmin.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\RegistroVehiculoAdmin.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\ReporteCliente.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\ReportePagos.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\ReporteReserva.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Reportes.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\ReporteVehiculo.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\SolicitudReserva.baml
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Lenovo\Documents\Proyectos\LimaCar_Project\ProyectoFinal\Presentacion\obj\Debug\Presentacion.pdb

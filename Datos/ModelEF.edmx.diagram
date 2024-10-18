@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7d0358e382ef4010a9ca49e92e5b021e" Name="Diagram1" ZoomLevel="40">
+        <EntityTypeShape EntityType="ModelEF.Cliente" Width="1.5" PointX="8.25" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Disponibilidad" Width="1.5" PointX="7.5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.EstadoReserva" Width="1.5" PointX="8.25" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Marca" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Modelo" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Pago" Width="1.5" PointX="8.25" PointY="16.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Reserva" Width="1.5" PointX="10.5" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.sysdiagrams" Width="1.5" PointX="0.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.TipoPago" Width="1.5" PointX="6" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Tipovehiculo" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Vehiculo" Width="1.5" PointX="5.25" PointY="2.25" IsExpanded="true" />
+        <AssociationConnector Association="ModelEF.reservas_clientes" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.disponibilidad_vehiculos" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.reservas_estado_reserva" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.modelos_marcas" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.vehiculos_modelos" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.pagos_tipos_de_pago" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.reservas_pagos" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.reservas_vehiculos" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.vehiculos_tipos_vehiculo" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
