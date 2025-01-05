@@ -2,6 +2,12 @@
 
 LimaCar es una plataforma innovadora diseñada para facilitar la reserva y alquiler de vehículos en Lima, Perú. El proyecto tiene como objetivo ofrecer a los usuarios una manera eficiente, segura y accesible de reservar autos, conectando a propietarios y arrendatarios a través de una interfaz intuitiva y fácil de usar.
 
+![fotoLimaCar](https://github.com/user-attachments/assets/24d43b09-67e9-4c54-b1bf-a174fa5f8961)
+
+## Informe documentado
+
+https://drive.google.com/file/d/1qMiL7XZ0DcgpFJlB4eXgjtTTt4y5dnd_/view?usp=sharing
+
 ## Características
 
 - **Reserva de Vehículos:** Los usuarios pueden navegar por una lista de vehículos disponibles y reservar el que mejor se ajuste a sus necesidades.
@@ -15,6 +21,11 @@ LimaCar es una plataforma innovadora diseñada para facilitar la reserva y alqui
 - **Framework:** .NET
 - **ORM:** Entity Framework
 - **Base de Datos:** SQL Server
+
+## Modelo relacional
+
+![LimaCar-2025-01-05_13-51](https://github.com/user-attachments/assets/83e0faf4-5414-4647-84c5-cb5837b1f381)
+
 
 ## Instalación
 
